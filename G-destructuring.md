@@ -56,3 +56,7 @@ Dans cette nouvelle version, le code est beaucoup moins verbeux, et surtout la f
 
 ## G.3. Mise en application
 La consigne pour ce dernier exercice est simple : **appliquez le destructuring partout où c'est possible dans votre code !**
+
+
+## TP suivant
+[Pour accéder au TP suivant, cliquer ici](https://github.com/GuillaumeCar/react-tp2)
